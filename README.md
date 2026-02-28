@@ -15,6 +15,9 @@ Skills are reusable AI workflows written in Markdown (`SKILL.md`) that Claude ex
 | [brand-assets](skills/official/brand-assets/SKILL.md) | branding | Brand-consistent images using workspace styles and variables |
 | [background-batch](skills/official/background-batch/SKILL.md) | tools | Batch background removal for multiple images at once |
 | [video-promo](skills/official/video-promo/SKILL.md) | video | Short promotional videos from product images or concepts |
+| [full-campaign](skills/official/full-campaign/SKILL.md) | marketing | Complete marketing campaign — product shots, lifestyle photos, multi-platform formats, and promo videos |
+| [image-decomposer](skills/official/image-decomposer/SKILL.md) | tools | Analyze any image and extract individual elements (characters, icons, text, UI) in isolation |
+| [ugc-video](skills/official/ugc-video/SKILL.md) | video | Authentic UGC-style video ads with AI-generated creators showcasing products |
 
 ## Community Skills
 

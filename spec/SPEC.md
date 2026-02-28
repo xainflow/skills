@@ -27,7 +27,7 @@ The frontmatter is a YAML block delimited by `---` at the top of the file.
 |---|---|---|---|
 | `name` | string | Unique identifier. Lowercase, hyphens only, max 64 chars. Must match folder name. | `product-shots` |
 | `description` | string | One sentence describing what the skill does. | `Generate professional product photography variations from a source image.` |
-| `category` | enum | One of: `photography`, `social`, `branding`, `tools`, `video`, `workflow`, `custom` | `photography` |
+| `category` | enum | One of: `photography`, `social`, `branding`, `tools`, `video`, `marketing`, `workflow`, `custom` | `photography` |
 | `argument-hint` | string | What the user provides when invoking the skill. Wrapped in brackets. | `[product-image-or-description]` |
 
 ### Optional Fields
@@ -131,6 +131,7 @@ Skills can reference these Xainflow platform tools:
 | `branding` | Brand-consistent assets, logos, guidelines |
 | `tools` | Utility workflows (batch processing, cleanup) |
 | `video` | Video generation and editing |
+| `marketing` | Multi-asset marketing campaigns |
 | `workflow` | Multi-step automated pipelines |
 | `custom` | Anything that doesn't fit above |
 

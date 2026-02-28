@@ -22,7 +22,10 @@ skills/
 │   │   ├── social-media-kit/SKILL.md
 │   │   ├── brand-assets/SKILL.md
 │   │   ├── background-batch/SKILL.md
-│   │   └── video-promo/SKILL.md
+│   │   ├── video-promo/SKILL.md
+│   │   ├── full-campaign/SKILL.md
+│   │   ├── image-decomposer/SKILL.md
+│   │   └── ugc-video/SKILL.md
 │   └── community/                    ← Community contributions via PR
 │       └── {skill-name}/SKILL.md
 └── .github/
@@ -49,7 +52,7 @@ skills/
 Required frontmatter fields:
 - `name`: lowercase, hyphens, max 64 chars
 - `description`: one sentence, what the skill does
-- `category`: one of photography, social, branding, tools, video, workflow, custom
+- `category`: one of photography, social, branding, tools, video, marketing, workflow, custom
 - `argument-hint`: what the user provides (in brackets)
 
 Optional frontmatter fields:

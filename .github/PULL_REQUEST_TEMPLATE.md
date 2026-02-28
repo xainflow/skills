@@ -6,7 +6,7 @@
 
 - [ ] Folder name matches the `name` field in frontmatter
 - [ ] `name` is lowercase with hyphens only (max 64 chars)
-- [ ] `category` is valid (photography, social, branding, tools, video, workflow, custom)
+- [ ] `category` is valid (photography, social, branding, tools, video, marketing, workflow, custom)
 - [ ] `argument-hint` is wrapped in brackets
 - [ ] `description` is a single sentence
 - [ ] No workspace-specific UUIDs in the file

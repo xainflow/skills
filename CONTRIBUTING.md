@@ -48,7 +48,7 @@ Before submitting, check:
 
 - [ ] Folder name matches the `name` field in frontmatter
 - [ ] `name` is lowercase with hyphens only (max 64 chars)
-- [ ] `category` is one of: photography, social, branding, tools, video, workflow, custom
+- [ ] `category` is one of: photography, social, branding, tools, video, marketing, workflow, custom
 - [ ] `argument-hint` is wrapped in brackets: `[your-hint]`
 - [ ] No workspace-specific UUIDs in the file
 - [ ] Referenced MCP tools exist (see spec for the full list)
